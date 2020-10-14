@@ -14,6 +14,7 @@
  *
  */
 
+// Changed
 var naturalSort = function naturalSort (options) { 'use strict';
   if (!options) options = {};
 
